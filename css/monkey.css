@@ -12,6 +12,5 @@ html {
 
 @media only screen and (max-width:1170px) {
   #monkey {
-    /*top: 50px;*/
-    bottom: 650px;
+    top: 50px;
   }
